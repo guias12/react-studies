@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import faker from 'faker';
 
 import CommentDetail from './CommentDetail';
+import ApprovalCard from './ApprovalCard';
 
 
 const App = () => {
@@ -35,12 +36,17 @@ const App = () => {
     ];
 
     return (
-        <div className="ui container comments">
+        <div className="ui container comments">            
             {
                 Comments.map((comment, index) => {
-                    return <CommentDetail key={ index } author={ comment.author} timestamp={ comment.timestamp} content= { comment.content } avatar= { comment.avatar } />
-                })
+                    return (
+                        <ApprovalCard>
+                            <CommentDetail key={ index } commentData={ comment } />
+                        </ApprovalCard>
+                    );
+                })                
             }
+            
        </div>
     );
 }

@@ -1,19 +1,20 @@
 import React from 'react';
 
 const CommentDetail = props => {    
+    const { avatar, author, timestamp, content } = props.commentData;    
     return (
         <div className="comment">
             <a href="/" className="avatar">
-                <img alt="avatar" src={ props.avatar }/>
+                <img alt="avatar" src={ avatar }/>
             </a>
             <div className="content">
                 <a href="/" className="author">
-                    { props.author }
+                    { author }
                 </a>
                 <div className="metada">
-                    <span className="date"> { props.timestamp }</span>
+                    <span className="date"> { timestamp }</span>
                 </div>
-        	    <div className="text"> { props.content } </div>
+        	    <div className="text"> { content } </div>
             </div>
         </div>
     );
