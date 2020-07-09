@@ -13,3 +13,4 @@ This repository will be used to store all the code and things that I've learned 
 ## Videos 📽️
 * [Aprenda Redux em 5 minutos](https://www.youtube.com/watch?v=Bg0xlUYAp0c) - By Filpix on YouTube. 
 * [React Tutorial For Beginners](https://youtu.be/dGcsHMXbSOA) - By Dev Ed on YouTube.
+* [https://www.youtube.com/watch?v=K-8z_4xvT3o](https://www.youtube.com/watch?v=K-8z_4xvT3o) - By Guilherme Rodz on Youtube
