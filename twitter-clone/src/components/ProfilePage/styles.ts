@@ -1,7 +1,7 @@
 import styled, { css } from 'styled-components';
 
 import { LocationOn, Cake } from '../../styles/icons';
-//import Button from '../Button';
+import Button from '../Button';
 
 export const Container = styled.div`
     display: flex;
@@ -108,7 +108,7 @@ export const Followage = styled.div`
     }
 `;
 
-/*export const EditButton = styled(Button)`
+export const EditButton = styled(Button)`
     position: absolute;
     top: 2vw;
     right: 7px;
@@ -120,4 +120,4 @@ export const Followage = styled.div`
         padding: 10px 19px;
         font-size: 15px;
     }
-`; */
+`;
