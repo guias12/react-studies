@@ -9,6 +9,8 @@ This repository will be used to store all the code and things that I've learned 
 
 
 ## Texts 📑
+* [CSS no JavaScript: Aprendendo a usar styled-components](https://link.medium.com/4O9C0avA57 ) - By Aline Bastos on Medium.
+* [React + TypeScript = ❤️](https://link.medium.com/5upJurRx17 ) - By Austin on Medium.
 
 ## Videos 📽️
 * [Aprenda Redux em 5 minutos](https://www.youtube.com/watch?v=Bg0xlUYAp0c) - By Filpix on YouTube. 
