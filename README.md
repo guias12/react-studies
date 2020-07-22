@@ -17,3 +17,4 @@ This repository will be used to store all the code and things that I've learned 
 * [Aprenda Redux em 5 minutos](https://www.youtube.com/watch?v=Bg0xlUYAp0c) - By Filpix on YouTube. 
 * [React Tutorial For Beginners](https://youtu.be/dGcsHMXbSOA) - By Dev Ed on YouTube.
 * [Twitter Responsivo com ReactJS | UI Clone](https://www.youtube.com/watch?v=K-8z_4xvT3o) - By Guilherme Rodz on Youtube
+* [Desvendando o Redux na prática | Diego Fernandes](https://www.youtube.com/watch?v=u99tNt3TZf8&list=PL85ITvJ7FLoiFHab9z1mLrbfg89dG_maJ) by Rocketseat on YouTube.
