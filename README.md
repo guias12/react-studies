@@ -18,3 +18,5 @@ This repository will be used to store all the code and things that I've learned 
 * [React Tutorial For Beginners](https://youtu.be/dGcsHMXbSOA) - By Dev Ed on YouTube.
 * [Twitter Responsivo com ReactJS | UI Clone](https://www.youtube.com/watch?v=K-8z_4xvT3o) - By Guilherme Rodz on Youtube
 * [Desvendando o Redux na prática | Diego Fernandes](https://www.youtube.com/watch?v=u99tNt3TZf8&list=PL85ITvJ7FLoiFHab9z1mLrbfg89dG_maJ) by Rocketseat on YouTube.
+* [React - Implementando autenticação de usuários](https://www.youtube.com/watch?v=kAHVIjNZ6WI&ab_channel=MatheusCastiglioni) by 
+Matheus Castiglioni on YouTube
